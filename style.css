@@ -73,7 +73,7 @@ header .navbar ul li a{
     min-height:100vh;
     display: flex;
     align-items: center;
-    background: url(/images/hero-bg.jpg) no-repeat;
+    background: url(./images/hero-bg.jpg) no-repeat;
     background-size: cover;
     background-attachment: fixed;
 
